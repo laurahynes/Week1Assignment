@@ -35,8 +35,7 @@ public class Momentum {
         }
         vel = m / sec;
         System.out.format("The objects velocity is %.2f m/s. \n", vel);
-        System.out.format("The objects momentum is %.2f kg*m/s.\n", mass * vel);
-        System.out.println("hi");
+        System.out.format("The objects momentum is %.2f kg*m/s.\n", mass * vel);        
     }
 
 }
